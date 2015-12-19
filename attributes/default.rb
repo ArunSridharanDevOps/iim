@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 
 #<> User and group name under which the server will be installed and running.
-default[:im][:user] = 'rusa'
+default[:im][:user] = 'root'
 default[:im][:group] = 'sgsup'
 
 #<
